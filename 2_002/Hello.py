@@ -1,0 +1,5 @@
+print("윤환희")
+print("33")
+print("경기도 부천시 부일로")
+print("010-1234-1234")
+print("joi.fani@gmail.com")

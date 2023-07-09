@@ -1,0 +1,6 @@
+print('윤환희')
+print('33살')
+print('남자')
+print('joi.fani@gmail.com')
+print('경기도 부천시')
+print('웨이트, 자전거, 음식')
